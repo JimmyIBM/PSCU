@@ -1,4 +1,4 @@
-# PSCU
+# Pre-req
 
 download terraform
 https://www.terraform.io/downloads.html
